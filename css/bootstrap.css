@@ -1508,6 +1508,10 @@ pre code {
     margin-left: 0%;
   }
 
+  .col-md-offset-01 {
+    margin-left: 8%;
+  }
+
   .col-md-offset-1 {
     margin-left: 8.33333%;
   }
