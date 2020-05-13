@@ -34,7 +34,7 @@ body {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("../images/nature1.jpg");
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("../images/bnr3.jpg");
   height: 300px;
   background-position: center;
   background-repeat: no-repeat;
